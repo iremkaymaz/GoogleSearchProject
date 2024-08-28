@@ -1,0 +1,8 @@
+form{
+    text-align: center;
+    margin: 200px;
+}
+#question{
+    border-radius: 1em;
+    border-color: grey;
+}
